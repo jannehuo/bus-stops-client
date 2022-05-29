@@ -10,13 +10,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^4.6.4",
-    "vite": "^2.9.9",
-    "vite-plugin-solid": "^2.2.6"
+    "typescript": "^4.6.4"
   },
   "dependencies": {
     "express-graphql": "^0.12.0",
     "graphql": "^15.8.0",
-    "solid-js": "^1.4.2"
+    "solid-js": "^1.4.2",
+    "vite": "^2.9.9",
+    "vite-plugin-solid": "^2.2.6"
   }
 }
